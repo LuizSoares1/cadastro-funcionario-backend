@@ -46,7 +46,7 @@ src/
 
 Para iniciar o servidor, execute o seguinte comando:
 ```
-npm start
+npm run dev
 ```
 
 ## Tecnologias utilizadas
