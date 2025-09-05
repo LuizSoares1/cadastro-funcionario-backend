@@ -4,7 +4,8 @@
   "description": "Backend for employee registration system",
   "main": "src/server.ts",
   "scripts": {
-    "start": "ts-node src/server.ts",
+    "dev": "ts-node src/server.ts",
+    "start": "node dist/server.js",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
