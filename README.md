@@ -3,7 +3,8 @@
 Este projeto é uma aplicação backend para o cadastro de funcionários, desenvolvida em TypeScript. Abaixo estão as instruções para instalação e uso.
 
 ## Estrutura
-   
+
+```   
 src/
 ├── config/
 │   └── firebase.ts           # Configuração do banco de dados utilizado.
@@ -22,7 +23,7 @@ src/
 │
 ├── app.ts                     # Configuração do Express, middlewares e registro de rotas
 └── server.ts                  # Ponto de entrada da aplicação (inicializa o servidor)
-
+```
 
 ## Instalação
 
